@@ -3,8 +3,4 @@ flask-cors
 joblib
 pandas
 numpy
-scikit-learnflask
-flask-cors
-joblib
-pandas
-numpy
+scikit-learn
